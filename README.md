@@ -6,7 +6,7 @@ This repository contains all the code used for the Machine Learning course proje
 
 ### Directory Structure
 
-- notebooks/**: Jupyter notebooks containing the preprocessing steps and the models respectively.
+- notebooks: Jupyter notebooks containing the preprocessing steps and the models respectively.
   - `preprocessing.ipynb`: All the preprocessing tasks excluding TF-IDF tokenization.
   - `classification.ipynb`: Random Forest Classification model.
   - `regression.ipynb`: Random Forest Regression / XGBoost model.
